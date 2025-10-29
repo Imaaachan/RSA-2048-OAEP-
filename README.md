@@ -45,4 +45,4 @@ Proyek ini memberikan pemahaman praktis tentang kriptografi asimetris serta pene
 
 ## Kontributor
 **Risma Febriyanti**  
-[rismafebriyanti@mail.com](mailto:rismafebriyanti@mail.com)
+[rismafebriyanti@mail.com](mailto:rismafebriyanti@gmail.com)
