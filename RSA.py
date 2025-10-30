@@ -184,11 +184,15 @@ def operasi(mode_input):
         print("1. Enkripsi pesan")
         print("2. Dekripsi pesan\n")
 
+        print("Ketik back untuk kembali yaa")
         operasi_input = input("Masukkan pilihan operasi: ").strip().lower()
 
         if operasi_input == "exit":
             print("\n˙⋆✮ Sampai jumpa lagi! ✮⋆˙")
             return "exit"
+        elif operasi_input== "back":
+            print("\nKembali ke mode input...")
+            return
 
         if mode_input == "1":  # mode manual
             if operasi_input == "1":
