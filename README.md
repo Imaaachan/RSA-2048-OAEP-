@@ -46,3 +46,6 @@ Proyek ini memberikan pemahaman praktis tentang kriptografi asimetris serta pene
 ## Kontributor
 **Risma Febriyanti**  
 [rismafebriyanti@mail.com](mailto:rismafebriyanti@gmail.com)
+
+## Public APP
+Streamlit : [RSA Crypto](https://q2cmadfbb9vtkcxokdfaqq.streamlit.app/)
