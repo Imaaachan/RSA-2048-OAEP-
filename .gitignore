@@ -1,0 +1,10 @@
+# Abaikan kunci rahasia RSA
+*.pem
+
+# Abaikan folder cache Python (biar bersih)
+__pycache__/
+*.pyc
+
+# Abaikan file environment/sistem (opsional)
+.env
+.DS_Store
